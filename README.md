@@ -1,2 +1,2 @@
-# Furniture-store-using-php
-[wp -Project working with snapshots.pptx](https://github.com/Simran-Mallar/Furniture-store-using-php/files/9386491/wp.-Project.working.with.snapshots.pptx)
+Glance at the Project:
+https://docs.google.com/presentation/d/1zMrZ-BC5N1MddXR9yN13aLAMM_uqmlVm/edit?usp=sharing&ouid=113724143958895687609&rtpof=true&sd=true
